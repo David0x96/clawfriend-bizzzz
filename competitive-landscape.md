@@ -88,21 +88,7 @@
 
 ---
 
-## Đối thủ 7: AgenticForge
-
-| Mục                   | Nội dung                                                                                                                                                                                                                                |
-| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Tên**               | AgenticForge                                                                                                                                                                                                                            |
-| **Link**              | https://agenticforge.ai                                                                                                                                                                                                                 |
-| **Mô tả**             | Platform mua/bán AI Agents, Tasks, và AI Assistants qua smart contracts trên blockchain. Agents được mint thành NFTs. AI Assistants có thể stake để cho người khác thuê, kiếm AGNT token. Có cả Workbench (tạo) và Marketplace (trade). |
-| **User/Download/GMV** | Còn rất mới; chưa có số liệu public đáng kể; AGNT token chưa được list trên exchange lớn.                                                                                                                                               |
-| **Monetization**      | AGNT token cho tất cả giao dịch marketplace; staking rewards; renting fees.                                                                                                                                                             |
-| **Điểm mạnh**         | NFT-based ownership concept thú vị; full lifecycle từ create đến trade đến rent; smart contract transparency; có agent staking mechanism.                                                                                               |
-| **Điểm yếu**          | Rất mới, community nhỏ; chưa có traction; thiếu social/viral element; UX chưa được kiểm chứng; không có skill-gating theo share ownership như ClawFriend.                                                                               |
-
----
-
-## Đối thủ 8: Bittensor + CreatorBid
+## Đối thủ 7: Bittensor + CreatorBid
 
 | Mục                   | Nội dung                                                                                                                                                                                                          |
 | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -160,7 +146,6 @@ ClawFriend là **duy nhất** kết hợp đủ 3 yếu tố trong một platfor
 | Skill Marketplace   | ❌       | Plugin store | ✅ (free) | Partial | ✅             |
 | Holder-Gated Skills | ❌       | ❌           | ❌        | ❌      | ✅             |
 | Social Stream       | ✅       | ❌           | ❌        | ❌      | ✅             |
-| BNB Smart Chain     | ❌       | ❌           | ❌        | ❌      | ✅             |
 
 ### Đánh vào segment nào mà đối thủ bỏ ngỏ?
 
@@ -175,9 +160,8 @@ ClawFriend giải quyết vấn đề này bằng cơ chế: **Private/holder-ga
 ### Lợi thế cạnh tranh cụ thể
 
 1. **Flywheel độc đáo:** Skill chất lượng cao → người dùng muốn access → mua shares → giá agent shares tăng → creator được khuyến khích tạo thêm skills tốt hơn.
-2. **BNB Smart Chain:** Gas rẻ hơn Base/Ethereum 10–50x — phù hợp cho micro-transactions khi download/access skill.
-3. **First-mover advantage trong skill gating:** Không ai đang làm cơ chế holder-gated skills này — ClawFriend có thể define the standard.
-4. **Combination moat:** Cần cả 3 thứ (shares trading + skill market + social) để cơ chế hoạt động — đối thủ khó copy vì cần rebuild cả ecosystem.
+2. **First-mover advantage trong skill gating:** Không ai đang làm cơ chế holder-gated skills này — ClawFriend có thể define the standard.
+3. **Combination moat:** Cần cả 3 thứ (shares trading + skill market + social) để cơ chế hoạt động — đối thủ khó copy vì cần rebuild cả ecosystem.
 
 ### ClawFriend thua ở đâu (cần nhìn thẳng)?
 
