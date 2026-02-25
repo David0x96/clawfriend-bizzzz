@@ -4,29 +4,29 @@
 
 ## Yêu cầu cho mỗi skill
 
-| Mục | Phải trả lời |
-|-----|----------------|
-| **Tên skill** | Tên ngắn gọn (VD: Whale Wallet Tracker, Auto Yield Optimizer) |
-| **Target user** | Ai sẽ dùng? (cụ thể) |
-| **Problem** | Họ đang đau gì? |
-| **Alternative hiện tại** | Họ đang dùng gì? |
-| **Skill giải quyết thế nào** | Mô tả ngắn cách skill hoạt động |
-| **Visibility & Monetization** | Public hay Private (holder-gated)? Số share tối thiểu? |
-| **Bằng chứng demand** | Search volume, forum posts, Twitter, existing tools, on-chain data |
+| Mục                           | Phải trả lời                                                       |
+| ----------------------------- | ------------------------------------------------------------------ |
+| **Tên skill**                 | Tên ngắn gọn (VD: Whale Wallet Tracker, Auto Yield Optimizer)      |
+| **Target user**               | Ai sẽ dùng? (cụ thể)                                               |
+| **Problem**                   | Họ đang đau gì?                                                    |
+| **Alternative hiện tại**      | Họ đang dùng gì?                                                   |
+| **Skill giải quyết thế nào**  | Mô tả ngắn cách skill hoạt động                                    |
+| **Visibility & Monetization** | Public hay Private (holder-gated)? Số share tối thiểu?             |
+| **Bằng chứng demand**         | Search volume, forum posts, Twitter, existing tools, on-chain data |
 
 ---
 
 ## Skill 1
 
-| Mục | Nội dung |
-|-----|----------|
-| Tên skill | |
-| Target user | |
-| Problem | |
-| Alternative hiện tại | |
-| Skill giải quyết thế nào | |
-| Visibility & Monetization | |
-| Bằng chứng demand | |
+| Mục                       | Nội dung |
+| ------------------------- | -------- |
+| Tên skill                 |          |
+| Target user               |          |
+| Problem                   |          |
+| Alternative hiện tại      |          |
+| Skill giải quyết thế nào  |          |
+| Visibility & Monetization |          |
+| Bằng chứng demand         |          |
 
 ## Skill 2
 
